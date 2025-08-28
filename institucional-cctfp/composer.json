@@ -1,0 +1,16 @@
+{
+    "name": "institucional-cctp/backend",
+    "description": "Backend y logica de la web institucional",
+    "autoload": {
+        "psr-4": {
+            "InstitucionalCctp\\Backend\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sofía López",
+            "email": "135775058+Soofbb@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
